@@ -24,11 +24,10 @@ By using this software, you automatically agree to the above.
 - [→] Clipper Wallet YandexMoney.
 - [→] Clipper Wallet Payeer.
 - [→] Clipper LINK (STEAM, MEGA DISK, Yandex Dis, DONAT ALERT)
-- [→] Clipper LINK (STEAM, MEGA DISK, Yandex Dis, DONAT ALERT)
 
 
 <p align="center">
-  <img src="Images/Builder.jpg">
+  <img src="OnionClipper/OnionClipper Builder.png">
 </p>
 
 # :hammer: Builder:
